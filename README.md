@@ -1,2 +1,2 @@
 # scratch-gpio-recipes
-Sample recipes for using GPIO in Scratch
+Sample recipes using GPIO in Scratch
